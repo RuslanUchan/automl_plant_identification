@@ -1,0 +1,6 @@
+img/
+
+# used for local testing purposes
+tanaman_predict.py
+tanaman_rename.py
+tanaman_server.py
