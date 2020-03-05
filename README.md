@@ -2,7 +2,7 @@
 
 Sample backend using Cloud Functions and AutoML prediction API
 
-Get training and testing data here: ...
+Get training and testing data here: [link-to-dropbox](https://www.dropbox.com/sh/a0gkly9tztjltwe/AAC0qg7tK34sp5epUhAHNXMpa?dl=0)
 
 Explanation:
 
